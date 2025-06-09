@@ -1,4 +1,4 @@
-All code in this repo is provided without support or warranty from Palo Alto Networks. Please review code used from this repo prior to use in your environment.
+Please review code used from this repo prior to use in your environment.
 
 Folders:
 
